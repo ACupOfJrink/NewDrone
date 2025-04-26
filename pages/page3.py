@@ -15,8 +15,8 @@ st.set_page_config(page_title="空中使者——队形算法", layout="wide")
 
 
 # 加载图片
-image1 = Image.open(r"images\image1.png")
-image2 = Image.open(r"images\image1.png")
+image1 = Image.open("./images/image1.png")
+image2 = Image.open("./images/image1.png")
 
 
 import streamlit as st
